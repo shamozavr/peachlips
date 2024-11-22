@@ -1,0 +1,17 @@
+nav.navbar {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  max-width: 1200px;
+  position: absolute;
+  @media (max-width: 1200px) {
+    max-width: 320px;
+  }
+}
+
+nav.navbar > .container-fluid {
+  padding: 0;
+  margin: 0;
+  column-gap: 130px;
+  width: 100%;
+}
