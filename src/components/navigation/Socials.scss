@@ -1,0 +1,21 @@
+.socials {
+  @media (max-width: 1200px) {
+    margin-top: 20px;
+  }
+}
+
+.socials__list {
+  display: flex;
+  flex-direction: row;
+  @media (max-width: 1200px) {
+    justify-content: center;
+  }
+}
+
+.socials__link {
+  color: rgb(243, 204, 214);
+}
+
+.socials__link:hover {
+  color: grey;
+}
