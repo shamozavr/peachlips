@@ -1,0 +1,292 @@
+{
+  "benefits": [
+    {
+      "id": 0,
+      "header": "Естесственный результат",
+      "description": "Современные техники и высококачественные материалы обеспечивают естественный и привлекательный вид."
+    },
+    {
+      "id": 1,
+      "header": "Экономия времени",
+      "description": "Утренние сборы становятся быстрее и проще, так как вам не нужно тратить время на макияж."
+    },
+    {
+      "id": 2,
+      "header": "Долговечность",
+      "description": "Перманентный макияж сохраняет идеальный вид на длительное время, избавляя от необходимости ежедневного макияжа."
+    }
+  ],
+  "top-services": [
+    {
+      "id": 0,
+      "name": "Сочные губы",
+      "description": "Создаем идеально оформленные брови, которые подчеркивают вашу индивидуальность.",
+      "url": ""
+    },
+    {
+      "id": 1,
+      "name": "Подчеркнутая межресничка",
+      "description": "Придаем вашим губам насыщенный цвет и четкий контур, чтобы они выглядели естественно и привлекательно. ",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "name": "Идеальные брови",
+      "description": "Обеспечиваем стойкий и выразительный макияж глаз, который подчеркнет вашу красоту без ежедневных усилий.",
+      "url": ""
+    }
+  ],
+  "studioImages": ["url", "url", "url"],
+  "priceList": {
+    "permanent": [
+      {
+        "id": 0,
+        "name": "Брови",
+        "price": "10000"
+      },
+      {
+        "id": 1,
+        "name": "Губы",
+        "price": "10000"
+      },
+      {
+        "id": 2,
+        "name": "Межресничка",
+        "price": "10000"
+      },
+      {
+        "id": 3,
+        "name": "Коррекция ПМ",
+        "price": "10000"
+      }
+    ],
+    "laser": [
+      {
+        "id": 0,
+        "name": "Удаление ПМ",
+        "price": "2000"
+      },
+      {
+        "id": 1,
+        "name": "Удаление тату",
+        "price": "от 2 000 р/сеанс"
+      },
+      {
+        "id": 2,
+        "name": "Карбоновый пилинг",
+        "price": "3 000 р/сеанс"
+      }
+    ]
+  },
+  "promos": ["url", "url", "url"],
+  "portfolio": {
+    "brows": [
+      {
+        "id": 0,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 1,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 2,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 3,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 4,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      }
+    ],
+    "eyelash": [
+      {
+        "id": 0,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 1,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 2,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 3,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 4,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      }
+    ],
+    "lips": [
+      {
+        "id": 0,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 1,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 2,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 3,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 4,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      }
+    ],
+    "lightening": [
+      {
+        "id": 0,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 1,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 2,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 3,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      },
+      {
+        "id": 4,
+        "image": {
+          "desktop": "",
+          "desktop2x": "",
+          "mobile": "",
+          "mobile2x": "",
+          "thumb": ""
+        }
+      }
+    ]
+  }
+}

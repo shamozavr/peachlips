@@ -1,0 +1,52 @@
+.hero__header {
+  margin: 0;
+  padding: 0;
+  font-size: 60px;
+  font-weight: 500;
+  font-family: 'Century Gothic';
+  background: -webkit-linear-gradient(-81deg, #fff, #E89DB1);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  @media (max-width: 1200px) {
+    font-size: 25px;
+  }
+}
+
+.hero__header::before {
+  content: "";
+  position: absolute;
+  width: 850px;
+  height: 90px;
+  border-radius: 50%;
+  background-color: #fff;
+  filter: blur(120px);
+  rotate: -50deg;
+  left: -550px;
+  top: -40px;
+}
+
+.hero__header::after {
+  content: "";
+  position: absolute;
+  width: 850px;
+  height: 90px;
+  border-radius: 50%;
+  background-color: #fff;
+  filter: blur(120px);
+  rotate: -50deg;
+  right: -550px;
+  top: 650px;
+}
+
+.hero__header-inner {
+  text-transform: uppercase;
+  font-size: 75px;
+  background: -webkit-linear-gradient(81deg, #fff, #E89DB1);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  @media (max-width: 1200px) {
+    font-size: 33px;
+  }
+}

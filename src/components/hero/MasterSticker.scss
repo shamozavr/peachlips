@@ -1,0 +1,32 @@
+.hero__sticker {
+  width: 155px;
+  height: 155px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  line-height: normal;
+  right: 80px;
+  bottom: 240px;
+  z-index: 1;
+  font-family: 'Montserrat', 'sans-serif';
+  position: absolute;
+  background-color: #FFFFFF;
+  border-radius: 50%;
+  border: solid 10px rgb(232, 157, 177, 0.4);
+}
+
+.hero__sticker-name {
+  margin: 0;
+  padding: 0;
+  max-width: 85px;  
+  font-weight: bold;
+  font-size: 18px;
+  color: #E89DB1;
+}
+
+.hero__sticker-text {
+  margin: 0;
+  padding: 0;
+  color: rgb(232, 157, 177, 0.5);
+}

@@ -13,6 +13,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  overflow-x: hidden;
 }
 
 #root {
@@ -24,6 +25,7 @@ body {
 
 div.wrapper {
   width: 100%;
+  min-width: 100%;
   max-width: 1200px;
   padding: 20px;
   display: flex;

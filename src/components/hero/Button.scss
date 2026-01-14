@@ -1,0 +1,22 @@
+.hero__sign {
+  padding: 0;
+  margin: 0;
+  padding: 30px 87px;
+  margin-top: 42px;
+  width: 290px;
+  color: #000000;
+  font-family: 'Montserrat', 'sans-serif';
+  font-weight: bold;
+  background-color: #E8A8B9;
+  cursor: pointer;
+  z-index: 1;
+  border: none;
+  @media (max-width: 1200px) {
+    margin-top: 345px;
+  }
+}
+
+.hero__sign:hover {
+  color: #000000;
+  background-color: rgb(230, 190, 200);
+}

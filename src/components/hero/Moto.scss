@@ -1,0 +1,13 @@
+.hero__moto {
+  margin: 0;
+  padding: 0;
+  margin-top: 26px;
+  font-family: 'Montserrat';
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 150%;
+  color: #FBE5EA;
+  @media (max-width: 1200px) {
+    font-size: 14px;
+  }
+}
